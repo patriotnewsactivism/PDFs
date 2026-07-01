@@ -1,0 +1,69 @@
+# Master Analysis Report
+
+## Target Keyword Mentions by File
+- **2017-01-01 - Facebook Posts 2017.pdf**: Tannehill, East, Crowder, Little
+- **2018-05-22 - Emergency Petition For Citation Of Contempt, Modification Of Custody And Child Support Agreement And Preliminary Injunctive Relief Filed By Matthew Oliver Reardon.pdf**: East, Crowder
+- **2020-12-28 - Disorderly Conduct Resisting Arrest Transcript.pdf**: East, Little
+- **2020-12-28 - Reardon Justice Court Final Motion.pdf**: East, Beavers, Crowder
+- **2020-12-30 - Docs For Justice Court Trial.pdf**: East, Beavers, Crowder
+- **2021-02-04 - 2nd Motion To Dismiss.pdf**: East
+- **2021-05-10 - Appellants Rebuttal In COA.pdf**: Tannehill, Busby, East, Crowder, Pruitt, FOIA
+- **2021-08-03 - RICO A Brief Sketch Congress.gov Library Of Congress.pdf**: East, Little
+- **2021-08-04 - Petition Against Liz.pdf**: Crowder
+- **2021-08-20 - Filed COA Brief.pdf**: Tannehill, East, Crowder, Pruitt
+- **2021-09-05 - Reardon Answer To Crowder Petition.pdf**: Crowder
+- **2021-09-17 - Motion For Peremptory Reversal COA.pdf**: East
+- **2021-09-20 - State Response To Peremptory Challenge.pdf**: East
+- **2021-09-28 - Filings Liz Crowder.pdf**: Crowder
+- **2021-09-28 - Motion To Dismiss, Reconsider, Or Recuse (2nd Request).pdf**: Crowder
+- **2021-10-06 - Reardon Rebuttal To State Peremptory Challenge.pdf**: Tannehill, Busby, East, Crowder, Pruitt, FOIA
+- **2021-11-01 - Denial Of IFP On Appeal By Whitwell.pdf**: Crowder
+- **2021-11-23 - Rule 60 Motion Final.pdf**: Tannehill, East, Crowder, Pruitt
+- **2021-12-07 - AGO Motion For Time.pdf**: East
+- **2021-12-09 - Communicare Letter Final.pdf**: East, Little
+- **2022-01-01 - 2nd Agg Stalking Arrest.pdf**: Tannehill
+- **2022-01-01 - Reardon Reply Brief To State COA.pdf**: Tannehill, East
+- **2022-01-03 - Affidavit Declaration Of Truth Reardon To East.pdf**: Tannehill, Busby, East, Beavers, Crowder, Little
+- **2022-01-05 - Appellee Brief Filed In COA.pdf**: East
+- **2022-02-09 - Completely Bizarre Behavior In Chancery Court.pdf**: Crowder
+- **2022-03-28 - Rule 60 Motion L20 316.pdf**: Tannehill, Busby, East, Pruitt, Little, FOIA
+- **2022-05-11 - Motion To Dismiss.pdf**: East, Driskell
+- **2022-06-03 - Order.pdf**: Busby, East
+- **2022-06-07 - Decision By Court Of Appeals.pdf**: East, FOIA
+- **2022-06-21 - Motion To Extend Time.pdf**: East
+- **2022-06-28 - Entry Of Appearance.pdf**: Busby, East
+- **2022-06-29 - Document 10312712797 Notice Of Appearance.pdf**: East
+- **2022-06-29 - State Motion To Dismiss Itself.pdf**: Busby, East
+- **2022-12-31 - Crowder VS Reardon 2021-2022.pdf**: Crowder
+- **2023-01-11 - Reply To Motion 3 24.pdf**: East
+- **2023-01-26 - County Defendants Motion For Judgment On Pleadings.pdf**: East
+- **2023-01-30 - Notice Of Service.pdf**: Busby, East
+- **2023-03-01 - County Defendants Response.pdf**: Tannehill, East
+- **2023-03-01 - County Defendants’ Amended Response In Opposition To Plaintiff’s Sworn Declaration.pdf**: Tannehill, East
+- **2023-03-01 - Joinder In County Defendants’ Amended Response In Opposition To Plaintiff’s Sworn Declaration.pdf**: Busby, East
+- **2023-03-01 - Joinder Of Communicare, Dr. Sandy Rogers, Susan Beard, And Rachel Alcorn To The Amended Response In Opposition To Plaintiff’s Sworn Declaration.pdf**: Busby, East
+- **2023-03-01 - Response In Opposition To Plaintiff’s Sworn Declaration.pdf**: Busby, East
+- **2023-03-23 - County Defendants’ Amended Response In Opposition To.pdf**: East
+- **2023-08-07 - Crowder Child Support Reduction.pdf**: Crowder
+- **2023-08-11 - Motion For A Franks Hearing Ocr1.pdf**: East, Osteen, Little, Tollison
+- **2023-12-31 - Crowder V Reardon Chancery 2017-2023 Compiled Compressed.pdf**: Crowder
+- **2023-12-31 - Crowder V Reardon Chancery 2020-2023.pdf**: Crowder
+- **2024-11-26 - Kandis Beavers Transcript.pdf**: Tannehill, Busby, East, Beavers, Tollison
+- **2025-02-12 - Transcript Meeting With Mark Arrington.pdf**: Little
+- **2025-02-25 - Complaint To OIG With Exhibits.pdf**: Beavers
+- **2025-03-31 - Emergency Renewed Motion To Lift Stay Due To Escalating Retaliation, DOJ Complicity, And Continuing Harm.pdf**: Beavers, Sessums, FOIA
+- **2025-03-31 - Emergency Renewed Motion To Lift Stay.pdf**: Sessums
+- **2025-03-31 - Motion To Lift Stay.pdf**: Sessums
+- **2025-03-31 - Order Staying Case.pdf**: Sessums
+- **2025-03-31 - Plaintiff’s Motion To Lift Stay Due To Continuing Harm.pdf**: Sessums
+- **2025-03-31 - Proffered Sworn Declaration And Notice Of Victim Status.pdf**: Sessums
+- **2025-04-01 - First Amended Complaint.pdf**: Sessums
+- **2025-04-02 - From Capone To Corporations Supreme Court Ruling On Civil RICO Claims Could Create Uptick In Personal Injury Lawsuits Crowell & Moring LLP.pdf**: Little
+- **2025-04-10 - Amended OIG Complaint.pdf**: Beavers, Sessums
+- **2025-04-18 - New Manuscript 2.pdf**: Tannehill, Busby, East, Beavers, Driskell, Crowder, Osteen, Sessums, Pruitt, Childers, Little, Tollison, MacArthur
+- **2025-04-23 - All Public Documents Reardon V Layton Up To.pdf**: Beavers, Sessums, FOIA
+- **2025-04-28 - Reardon Court Of Appeals Brief Final (PDF Version).pdf**: Busby, East, Driskell, Childers, Little
+- **2025-07-15 - US Attorney Erin Chalk Calls Me.pdf**: Beavers
+- **2025-08-22 - Foia Appeal.pdf**: FOIA
+- **2026-06-21 - Reardon June 21 2026 Filing.pdf**: Busby, Osteen
+- **2026-06-21 - Reardon Memo June 21 2026.pdf**: Osteen
