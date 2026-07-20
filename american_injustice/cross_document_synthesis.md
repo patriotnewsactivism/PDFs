@@ -35,3 +35,16 @@ Separate from Mississippi: Reardon later tried to report **Captain Hildon Sessum
 - **Hildon Sessums** — Oxford PD Captain, FBI Academy grad, subject of the Utah federal complaint re: FBI stonewalling.
 - **Tiffany Kilpatrick** — Asst. DA, used Beavers' perjured testimony to revoke probation while campaigning for judge (newly surfaced, not on original list — add her).
 - **Hoby James** — not yet located in any processed source.
+
+## ADDENDUM (2026-07-20) — Backdated Certificate: RESOLVED, verdict is NULL RESULT
+
+Read the actual "2022-04-01 Certificate Of Service Backdated To For Affidavit Of Truth" document (binder page 67 / PDF index 69-71) plus its surrounding context. Verdict: **the title does not hold up as fraud.**
+
+Sequence confirmed from the documents themselves:
+- Jan 3-4, 2022: Reardon hand-delivers/emails an "Affidavit of Truth" to Lafayette County Board Attorney David ODonnell, asking him to forward it to Sheriff Joey East. ODonnell replies same-day confirming receipt "following yesterdays Board of Supervisors meeting" and commits to passing it to Sheriff East.
+- The sworn Proof of Service certifies personal delivery on **January 4, 2022**.
+- The actual Lafayette County civil docket (case L21-494) shows this Proof of Service was not **filed with the court until April 1, 2022** — a three-month gap.
+
+Conclusion: there IS a real, documented three-month filing delay — that is a verifiable fact from the docket printout. But the contemporaneous January emails are genuinely dated and internally consistent with each other, which argues against fabrication-after-the-fact. This reads as an ordinary late filing, not proven backdating. Recommend the book frame this as "a documented 3-month filing delay on an otherwise-consistent paper trail" — NOT as proven fraud. This line of inquiry is now closed absent new evidence.
+
+Hoby James remains completely unaccounted for — zero hits across every source processed (GitHub repo, 756-page Obstruction binder, both 2017-2020/2021 Dropbox compilations). Either he appears under an unrecognized name variant, in a document not yet digitized, or needs to be reconciled directly with Don.
