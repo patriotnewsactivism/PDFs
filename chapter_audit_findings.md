@@ -61,3 +61,24 @@ Ch.18: Mitchell Driskell (the conflicted ex-public-defender who joined Rhea Tann
 
 ### Still pending
 Finish reading the remainder of Ch.27 and the Conclusion. Then move to actually implementing all identified fixes across the manuscript (Ch.6, 8, 9, 13, 15, and the Utah-matter status upgrade).
+
+---
+
+## FINAL UPDATE 2026-07-22: AUDIT 100% COMPLETE — all 27 chapters + Conclusion
+
+Ch.27 and the Conclusion check out clean — legal citations (Stack v. Boyle, Boykin v. Alabama, Plyler v. Doe, Missouri v. Frye) are all real and correctly used. No new issues.
+
+### Complete, final punch list — nothing else outstanding from the chapter audit
+1. **Ch.6** — soften "fabricated from whole cloth" framing on the Lynch stalking charge to acknowledge Investigator Bundren's May 24, 2017 review of real Facebook gun-threat content as the actual trigger (the AR-15 date alibi still stands, just isn't the whole story).
+2. **Ch.8** — REWRITE the 2018 rape-accusation section. Replace "no encounter that could even be misinterpreted" with the true, stronger account: a consensual encounter (Nov 25, 2018, confirmed by both parties' own texts per the detective's file) that was falsely reported as assault.
+3. **Ch.9** — fix deputy name "Omar Ahmed" → "Ethan Tidwell."
+4. **Ch.13** — verify the Christi McCoy / "Earlene Gardner Victims Assistance Project" claim against a primary source before publishing.
+5. **Ch.15** — fix case citation "Davidson v. O'Connor" → "O'Connor v. Donaldson."
+6. **Throughout** — update the Layton/Utah matter's framing from "drafted/threatened" to "CONFIRMED FILED, District of Utah, March 31, 2025."
+7. **Ch.18** — the Driskell wife's-info allegation is specific and serious; confirm solid backup exists before stating it as fact.
+
+### Open questions needing Don directly (not resolvable from documents alone)
+- June 2024 vs. Jan 2025 vacatur — one event or two? Manuscript itself only tells one continuous story, leaning toward "same event."
+- Source for the McCoy/Earlene Gardner claim in Ch.13.
+
+**Everything else in the manuscript (Ch.1-5, 7, 10-12, 14, 16-17, 19-27) is clean and matches the primary-source record.**
