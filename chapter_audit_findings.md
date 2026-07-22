@@ -40,3 +40,24 @@ Ch.17 "The June 2022 Arrest and Beyond," Ch.18 "The Legal Battle Expands," Ch.19
 - Whether the June 2024 Galveston-custody vacatur and the Jan 21, 2025 MacArthur Justice Center vacatur are one event or two.
 - The New Orleans complaint's filing status (appears drafted, not confirmed filed).
 - The RCR-000015 "Motion to Dismiss the Indictment" document — confirmed NOT related to New Orleans (predates it); case/context still unidentified.
+
+---
+
+## UPDATE 2026-07-22 (session 2): Ch.17-19, 22-26 audited. Chapter audit now complete through Ch.26 — only Ch.27 tail + Conclusion remain.
+
+### Major correction: the Utah/Layton matter is CONFIRMED FILED, not just drafted
+Ch.26 confirms Reardon filed a federal lawsuit in the **U.S. District Court for the District of Utah on March 31, 2025**, naming Layton City, Lt. Riley Richums, Captain Hildon Sessums, and the City of Oxford as co-defendants. This upgrades the status of that legal matter from "drafted/threatened" to "confirmed filed." Update any earlier framing accordingly.
+
+### Resolved (no longer open questions)
+- **Breathalyzer wording:** manuscript's "repeatedly demanded a breathalyzer... consistently denied" is fully consistent with the Galveston dispatch audio — not a contradiction. No fix needed.
+- **Richins vs. Richums spelling:** manuscript uses "Lieutenant Riley Richums" — use this as the primary spelling going forward.
+- **June 2024 vs. Jan 2025 vacatur:** Ch.24 narrates the Galveston-to-vindication arc as one continuous story with no mention of a separate June 2024 court action. Leans toward "one event, not two" (the June 2024 timeline-doc entry may be a duplicate/mis-dated reference) — still recommend confirming with Don directly since this isn't 100% certain.
+
+### New/refined names this pass
+Oxford PD Lieutenant Kevin Parker and Captain Lyons (June 2022 City Hall detention). Confirms Judge Kent Smith set the June 28, 2022 bail before ADA Tiffany Kilpatrick got it revoked to a no-bond hold.
+
+### New serious allegation worth verifying before publication
+Ch.18: Mitchell Driskell (the conflicted ex-public-defender who joined Rhea Tannehill's firm Aug 15, 2022) allegedly kept case notes containing Reardon's wife's name, phone number, and employer — raised as a possible link to her job loss that same month. This is a specific, serious claim — verify if possible before stating it as established fact.
+
+### Still pending
+Finish reading the remainder of Ch.27 and the Conclusion. Then move to actually implementing all identified fixes across the manuscript (Ch.6, 8, 9, 13, 15, and the Utah-matter status upgrade).
