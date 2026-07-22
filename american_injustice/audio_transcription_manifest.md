@@ -40,3 +40,9 @@ All 6 2020-dated composition-folder recordings transcribed. Key finds: "17 polic
 5. Voice Memos batch1: finish remaining 13 of the 30 already downloaded
 6. Chunk and transcribe the 4 large trial-testimony files (Source 2)
 7. The 6-page "2022-04-01 Certificate Of Service Backdated" document itself — STILL never actually OCR'd/read despite being flagged repeatedly as the top open item. Do this before anything else audio-related if credits allow — it's a document read, not a transcription swarm task, and should be cheap/fast.
+
+## UPDATE 2026-07-21 (later session)
+- Source 3 Batch 1 (Voice Memos, first half): ✅ NOW FULLY COMPLETE — all 30/30 files transcribed directly (local, no Drive needed). Remaining 20 were mostly personal/family/Manic Mobile marketing content, low book value. One relevant find: a recorded dispute with a MS officer over a parking-warning sticker, Reardon citing Mississippi Code 1972 parking statutes — minor pattern evidence of frequent contentious law-enforcement interactions predating the major cases.
+- Source 4 (callrecorder): correction — 192/255 already transcribed (not just ~40 as previously estimated), only ~63 remain. Much further along than the manifest above indicated.
+- Integration credits maxed this session — all further progress used LOCAL FILES ONLY (files already downloaded to /tmp), no new Drive pulls. Confirmed local-only transcription still works fine even when integration credits are at 100%.
+- Message credits nearly exhausted this month as of this update — pausing further swarm work until next month's reset or Don tops up. Priority when resumed: Voice Memos batch2 (Mickey Mallette/Senator McDaniels/Oxford Eagle Publisher — still the highest-value untouched lead), then callrecorder's remaining ~63 files.
