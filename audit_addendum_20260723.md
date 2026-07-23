@@ -27,3 +27,26 @@ Supplemental resolutions since the main `chapter_audit_findings.md`. All confirm
 1. Exact date of the Tupelo Crisis Center / disturbance-arrest event (see above).
 2. Manuscript text itself still needs the Ch.13/Ch.18 editorial notes simplified per the resolutions above (currently just flagged as open questions in `chapter_audit_findings.md`).
 3. Busby 2025 affidavit vs. Feb 2026 COA ruling — precise contradiction language not yet pulled from wtpnews.org.
+
+## NEW findings from Don's audio uploads (2026-07-23 session)
+
+### Case number 2017-CV-217 — the Tannehill restraining order case
+Confirmed via a recorded call to Judge Little's law clerk ("Tara"): the 2017 Tannehill restraining order/injunction is **case 2017-CV-217** — a fourth, previously unlogged case number distinct from L20-316 (PCR) and CV2016-422W (custody). The clerk could not confirm any Rule 65 security bond/deposit was ever posted for the TRO — Reardon's own theory, unverified, that this made it procedurally defective. A motion to dissolve the restraining order was filed and denied by Judge Little in 2022.
+
+### New entity: "CommuniCare"
+The facility/agency tied to Reardon's 2022 involuntary commitment. Reardon says he served formal notice on Judge Little about "what CommuniCare did," calls it a cover-up, and says he's working on a lawsuit against CommuniCare specifically. Reinforced in a separate Bob Norman call where Reardon says a CommuniCare "executive member" tipped him off. Needs follow-up research — likely the psychiatric hospital/provider used for the hold.
+
+### Sheriff Joey East — primary-source trial testimony (Nov 4, 2021)
+Direct audio of East's cross-examination confirms: sallyport/jail cameras auto-erase after 7 days, only the jail administrator has routine access. When confronted — "how did you preserve [a] parking lot video but not the DUI video?" — East answered: **"The moment of the arrest, we preserved it at that time."** This is a sworn admission of selective, discretionary preservation, not routine auto-deletion — the strongest primary-source corroboration yet of the DUI-footage-destruction narrative. Use this exact quote.
+
+### AUSA Bob Norman — two direct recorded calls (Dec 2021 / Jan 2022)
+Confirmed email: bob.norman@usdoj.gov. Direct quote: **"I don't see you as a victim, Matt."** Norman offered a DOJ Civil Rights Division referral (via prosecutor Kim Hampton) but explicitly conditioned it on Reardon having no pending litigation — this is the actual on-tape reason the referral stalled, not pure stonewalling. Reardon's claim to Norman that his daughter is a trafficking victim (per a Wikipedia definition) is his own likely-overreaching claim — needs a clear editorial caveat or exclusion if used.
+
+### New incident: Justice Court filming confrontation, ~June 8, 2022
+Fills a previously empty window between the Feb 2022 son's birth and the Aug/Oct 2022 Driskell/FBI events. Reardon was filming with a gimbal at Lafayette Co. Justice Court; Court Security Officer "Chad Mood" (likely = "Chad Wood" already on the watch list) called it "private property" and refused to identify himself; Deputy Omar Ahmed (new name) also involved. Reardon filed a formal complaint with Scott Mills against both.
+
+### Gun-ordinance email — context finally confirmed
+Per Reardon's own account to the MS Republican Party chairman (Dec 2, 2021 call): Joey East, while still Oxford PD chief (pre-sheriff), emailed the mayor/board of aldermen pushing gun-ordinance changes through the SAME city council meeting where Reardon was barred from speaking via the Tannehill restraining order — framed as a deliberate two-birds timing move. Also confirms ridingwiththeoutlaw.com as his documentary site, and names MS AG Lynn Fitch, State Sen. Chris McDaniel, and State Sen. Nicole Boyd as unresponsive to outreach. Confirms precise Tannehill election date: June 6, 2017.
+
+### Recordings-root archive (986 loose files) — CLOSED, low priority
+De-duped to 318 unique-size files; even the 12 largest (most likely to have real content) came back as mundane personal/admin calls (RingCentral setup, Verizon dispute). Confirmed this pool is mined out — do not brute-force further unless a specific file/date is requested.
