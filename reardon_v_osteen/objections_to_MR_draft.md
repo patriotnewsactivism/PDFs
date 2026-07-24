@@ -13,6 +13,7 @@
 ---
 
 ## OBJECTION 1 — Unreasonable Seizure: the Constitutional Violation Was Found; Qualified Immunity Was Granted Only Because the Clearly-Established Prong Was Never Briefed (strongest ground)
+**R&R pincites:** violation found at Dkt.90 p.21; qualified immunity analysis pp.22-24; forfeiture finding ("Reardon fails to even address...") at p.24.
 
 **What the R&R actually holds (get this right — it's better for you than a flat loss):** The magistrate **found Reardon stated a real constitutional violation** — the vehicle impoundment was unreasonable, the community-caretaking exception (*South Dakota v. Opperman*, 428 U.S. 364 (1976)) doesn't apply because there's no evidence the vehicle was disabled, illegally parked, blocking traffic, or had expired registration, and willing private custodians were present. This is not a case where the court doubted your Fourth Amendment claim — that portion is a real win.
 
@@ -29,6 +30,7 @@ The claim dies ONLY at prong two of qualified immunity — "clearly established 
 ---
 
 ## OBJECTION 2 — First Amendment Retaliation: Dismissal Should Be Without Prejudice / With Leave to Amend to Plead Comparator Evidence
+**R&R pincites:** section at Dkt.90 pp.27-28; comparator-evidence holding at p.28.
 
 The R&R dismisses this claim because Reardon "failed to plead comparator evidence" — i.e., facts showing that similarly-situated people not engaged in protected speech (auditing/journalism) would not also have been stopped/arrested for the same driving conduct (failure to maintain a lane, watery eyes, refusing a field sobriety test). This is a pleading-specificity problem, not a merits problem, and pro se pleadings get liberal construction.
 
@@ -39,6 +41,7 @@ The R&R dismisses this claim because Reardon "failed to plead comparator evidenc
 ---
 
 ## OBJECTION 3 — Malicious Prosecution / Unlawful Search: Preserve the Osteen False-Statement Findings for the Record, and Push Back on the Franks Materiality Ruling
+**R&R pincites:** "the record shows that Osteen lied to Judge Tollison" at Dkt.90 p.20; unlawful search/Franks analysis pp.20-21.
 
 Two separate, real findings survive even though both claims were dismissed on other grounds — don't let either get buried:
 - The R&R states outright: **"the record shows that Osteen lied to Judge Tollison. That is disturbing."** (this concerns Osteen's conduct as it relates to the Mississippi revocation proceeding, separate from the Dkt.79 concession below — both are independent false-statement threads and should be cited separately, not conflated.)
@@ -51,6 +54,7 @@ Two separate, real findings survive even though both claims were dismissed on ot
 ---
 
 ## OBJECTION 4 — Excessive Force: Dismissal Should Be Without Prejudice (pleading-specificity problem, not a merits problem)
+**R&R pincite:** Dkt.90 p.26.
 
 The R&R dismisses this claim because Reardon "does not specify the nature of his physical injury or psychological harm" beyond conclusory labels. Reardon has a **documented pre-existing shoulder injury requiring three prior hospitalizations** — specific facts about how the forced restraint/blood draw aggravated that injury, plus any specific psychological symptoms (not just the label "psychological harm"), would cure this pleading gap.
 
@@ -59,6 +63,7 @@ The R&R dismisses this claim because Reardon "does not specify the nature of his
 ---
 
 ## OBJECTION 5 — Doraty: Dismissal Should Be Without Prejudice (same pleading-specificity problem)
+**R&R pincite:** Dkt.90 pp.15-16.
 
 The R&R dismisses claims against Doraty because the complaint's allegations against him are conclusory ("participated in and supervised," "caused... to be towed," "bears supervisory responsibility") without specific factual detail of what Doraty himself did. If Reardon has specific facts about Doraty's individual conduct (not just his title/role), request leave to replead with that detail rather than a final dismissal.
 
@@ -67,12 +72,14 @@ The R&R dismisses claims against Doraty because the complaint's allegations agai
 ---
 
 ## OBJECTION 6 — Busby's Personal-Jurisdiction Dismissal (weak objection — flag only if new facts exist)
+**R&R pincite:** Dkt.90 pp.10-12.
 
 The R&R's Rule 12(b)(2) analysis is well-reasoned and hard to attack on the current record: it relies on Busby's own affidavit plus a corroborating affidavit from ADA Steven Jubera showing Jubera — not Busby — personally sent the March 25, 2024 letter to Texas. **Only object here if Reardon has specific, non-conclusory facts showing Busby had OTHER direct contacts with Texas** beyond this letter (e.g., a direct call, email, or communication Busby personally sent into Texas) — otherwise this objection is unlikely to succeed and may not be worth the space in a page-limited filing. Do not object just to object.
 
 ---
 
 ## OBJECTIONS 7-8 — Motion to Strike/Sanctions (Dkt. 61) and Motion for Leave to Supplement (Dkt. 85) — DIFFERENT STANDARD, cite Rule 72(a)
+**R&R pincites:** motion to strike at Dkt.90 pp.31-32; motion for leave at Dkt.90 p.32.
 
 These were **orders the magistrate already issued**, not recommendations — objections to them are reviewed only for **clear error or contrary-to-law**, under Fed. R. Civ. P. 72(a), not de novo. Frame these separately and explicitly under 72(a) so the district judge doesn't apply the wrong standard.
 - **Motion to Strike/Sanctions (Dkt.61) — denied** because the record shows ADA Jubera, not Busby, personally contacted Texas, so Busby's affidavit language ("personally responded") wasn't literally false. Weak objection on the current record for the same reason as Objection 6 — only pursue if new facts contradict this.
@@ -81,6 +88,7 @@ These were **orders the magistrate already issued**, not recommendations — obj
 ---
 
 ## OBJECTION 9 — TRO Denial (Dkt. 84) Is Entirely Derivative — Revisit Automatically If Objection 1 Succeeds
+**R&R pincite:** Dkt.90 pp.32-33; Conclusion at p.33.
 
 The R&R denies the TRO solely because it recommended dismissing all federal claims. **If the district judge sustains Objection 1 (rejects the QI recommendation on the seizure claim), the TRO denial's premise disappears and should be reconsidered on its own merits** — flag this dependency explicitly so the district judge doesn't treat the TRO denial as independently final.
 
