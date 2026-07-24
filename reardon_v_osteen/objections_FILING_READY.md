@@ -129,8 +129,8 @@ Matthew Oliver Reardon
 Plaintiff, Pro Se
 [Address]
 [City, State, ZIP]
-[Telephone]
-[Email]
+Telephone: 385-350-3998
+Email: mreardon@wtpnews.org; patriotnewsactivism@gmail.com
 
 ---
 
