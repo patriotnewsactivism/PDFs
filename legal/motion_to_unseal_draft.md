@@ -19,7 +19,7 @@ MATTHEW OLIVER REARDON,
 
 ## DEFENDANT'S MOTION TO UNSEAL TRIAL TRANSCRIPT AND LIFT PROTECTIVE ORDER RESTRICTING DISCLOSURE OF MARSHAL COMMUNICATIONS AND SURVEILLANCE-PRESERVATION TESTIMONY
 
-NOW COMES Defendant Matthew Oliver Reardon, appearing pro se, and respectfully moves this Court to (1) unseal the portions of the trial transcript addressing U.S. Marshal [Hayden Nugent/Newsom — CONFIRM SPELLING] communications and the preservation status of courthouse lobby surveillance footage, and (2) lift or narrow the Court's protective order of October 15, 2025, to the extent it continues to restrict public disclosure of that testimony. In support, Defendant states as follows:
+NOW COMES Defendant Matthew Oliver Reardon, appearing pro se, and respectfully moves this Court to (1) unseal the portions of the trial transcript addressing U.S. Marshal Hayden Nugent communications and the preservation status of courthouse lobby surveillance footage, and (2) lift or narrow the Court's protective order of October 15, 2025, to the extent it continues to restrict public disclosure of that testimony. In support, Defendant states as follows:
 
 ### I. PROCEDURAL BACKGROUND
 
@@ -74,7 +74,7 @@ Matthew Oliver Reardon
 ---
 
 **Drafting notes for Don:**
-- Marshal name bracketed pending your confirmation — Nugent or Newsom?
+- Marshal name confirmed as Hayden Nugent per Don (2026-07-31) — still worth a final cross-check against your attorney's actual court filings before this is filed.
 - Timing: file this AFTER the Aug 7 sentencing, not before — consistent with your Path B strategy (comply through sentencing, then challenge).
 - I left [Update with actual outcome once known] at ¶3 — send me the sentencing result and I'll finalize that paragraph same day.
 - Want me to also draft the accompanying Notice of Appeal to file alongside this, since Rule 58(g)(2)'s clock starts at judgment?
